@@ -6,3 +6,7 @@
 ![TextViewkt](https://user-images.githubusercontent.com/51111183/119622909-9a40f780-be42-11eb-91e8-7c28e612ce24.gif)
 
 > 파일명: TextViewkt
+
+## :two: 코틀린 editText 와 Button
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51111183/119777329-f66a5100-bf00-11eb-80fc-72f79c00c5ab.gif)
+> 파일명: EditTextBtnKt
