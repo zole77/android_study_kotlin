@@ -10,3 +10,7 @@
 ## :two: 코틀린 editText 와 Button
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/51111183/119777329-f66a5100-bf00-11eb-80fc-72f79c00c5ab.gif)
 > 파일명: EditTextBtnKt
+
+## :three: 코틀린 Intent 이동
+![KakaoTalk_20210530_153956982](https://user-images.githubusercontent.com/51111183/120181037-79fca880-c247-11eb-8792-290500f8a54e.gif)
+> 파일명: IntentKt
