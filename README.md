@@ -14,3 +14,7 @@
 ## :three: 코틀린 Intent 이동
 ![KakaoTalk_20210530_153956982](https://user-images.githubusercontent.com/51111183/120181037-79fca880-c247-11eb-8792-290500f8a54e.gif)
 > 파일명: IntentKt
+
+## 4️⃣ 코틀린 ImageView와 ToastMessage
+![ImageViewKt](https://user-images.githubusercontent.com/51111183/120291054-e1752f80-c2fd-11eb-8674-6d9bc8f7a6d6.gif)
+> 파일명: ImageViewKt
