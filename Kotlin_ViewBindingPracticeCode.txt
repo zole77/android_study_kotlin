@@ -1,0 +1,18 @@
+
+gradle(Module)
+	
+	bulidFeatures{
+		viewBinding
+	}
+
+
+Main
+	private var mBinding: ActivityMainBinding? = null
+	private val binding get() = mBinding !!
+
+	override fun onCreate{
+		...
+		mBinding = ActivityMainBinding.inflate(layoutInflater)
+		setContentView(binding.root)
+		...
+	}
