@@ -18,3 +18,7 @@
 ## 4️⃣ 코틀린 ImageView와 ToastMessage
 ![ImageViewKt](https://user-images.githubusercontent.com/51111183/120291054-e1752f80-c2fd-11eb-8674-6d9bc8f7a6d6.gif)
 > 파일명: ImageViewKt
+
+## 5️⃣ 코틀린 네비게이션 메뉴와 액션 바 없애기
+![NavigationKt](https://user-images.githubusercontent.com/51111183/120881957-b5182680-c60f-11eb-8b7c-563a19137a9d.gif)
+> 파일명: NavigationKt
