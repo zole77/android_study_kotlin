@@ -1,0 +1,2 @@
+rootProject.name = "WebViewKt"
+include ':app'
