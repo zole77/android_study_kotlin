@@ -22,3 +22,7 @@
 ## 5️⃣ 코틀린 네비게이션 메뉴와 액션 바 없애기
 ![NavigationKt](https://user-images.githubusercontent.com/51111183/120881957-b5182680-c60f-11eb-8b7c-563a19137a9d.gif)
 > 파일명: NavigationKt
+
+## 6️⃣ 코틀린 SharedPreference
+![SharedPreferenceKt](https://user-images.githubusercontent.com/51111183/121134773-c14def00-c86e-11eb-8b90-281c8eaa3eba.gif)
+> 파일명: SharedPreferenceKt
