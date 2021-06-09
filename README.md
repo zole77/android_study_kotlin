@@ -30,3 +30,7 @@
 ## 7️⃣ 코틀린 웹뷰 입문
 ![WebViewKt](https://user-images.githubusercontent.com/51111183/121134918-ee020680-c86e-11eb-990f-f4f77a264c32.gif)
 > 파일명: WebViewKt
+
+## 8️⃣ 코틀린 Fragment
+![FragmentKt](https://user-images.githubusercontent.com/51111183/121298955-a8f1d900-c92f-11eb-91ab-1230f992f2ab.gif)
+> 파일명: FragmentKt
